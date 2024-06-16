@@ -11,7 +11,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 1. Clone este repositório:
 
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/EdsonBelemTreinamento/node-swagger.git)
+   git clone https://github.com/EdsonBelemTreinamento/node-swagger.git;
    ```
 
 2. Navegue até o diretório do projeto:
